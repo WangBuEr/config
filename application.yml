@@ -1,0 +1,4 @@
+api: 
+  feignClient: 
+    demo-servier: DEMO-SERVICE
+    
